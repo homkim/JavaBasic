@@ -1,4 +1,4 @@
-package com.lec.java.basic;
+package com.javalec.lab01;
 
 import java.util.Scanner;
 

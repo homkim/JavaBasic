@@ -1,4 +1,4 @@
-package com.lec.java.lab01;
+package com.javalec.lab02;
 
 import java.util.Scanner;
 import java.util.StringTokenizer;

@@ -1,4 +1,4 @@
-package com.lec.java.lab01;
+package com.javalec.lab02;
 
 public class Gugudan {
 	public static void main(String[] args) {

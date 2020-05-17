@@ -1,4 +1,4 @@
-package com.lec.java.basic;
+package com.javalec.lab01;
 
 public class lab24_1_TimerMain {
 

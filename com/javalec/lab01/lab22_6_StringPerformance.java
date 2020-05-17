@@ -1,4 +1,4 @@
-package com.lec.java.basic;
+package com.javalec.lab01;
 
 public class lab22_6_StringPerformance {
 	public static void main(String[] args) {
