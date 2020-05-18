@@ -2,7 +2,7 @@ package com.javalec.lab01;
 
 import java.util.Scanner;
 
-public class lab23_2_Scanner {
+public class ex23_2_Scanner {
 	public static void main(String[] args) {
 		
 		System.out.print("input int value: ");

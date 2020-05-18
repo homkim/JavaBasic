@@ -1,6 +1,6 @@
 package com.javalec.lab01;
 
-public class lab23_3_Wrapper {
+public class ex23_3_Wrapper {
 	/**
 	 * 기초데이터를 객체데이터로 변환해주는 클래스를 말한다. byte, short, int, long, double, float, boolean,
 	 * char(Character) 8개

@@ -2,7 +2,7 @@ package com.javalec.lab01;
 
 import java.util.TimerTask;
 
-public class lab24_1_TimerTask2 extends TimerTask {
+public class ex24_1_TimerTask2 extends TimerTask {
 
 	@Override
 	public void run() {

@@ -1,6 +1,6 @@
 package com.javalec.lab01;
 
-public class lab22_6_StringPerformance {
+public class ex22_6_StringPerformance {
 	public static void main(String[] args) {
 
 		int maxCount = 10000;

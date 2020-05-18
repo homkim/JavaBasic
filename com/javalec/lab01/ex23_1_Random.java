@@ -7,7 +7,7 @@ import java.util.Random;
  * @author sds
  *
  */
-public class lab23_1_Random {
+public class ex23_1_Random {
 	public static void main(String[] args) {
 		double d = Math.random();
 		System.out.println(d);

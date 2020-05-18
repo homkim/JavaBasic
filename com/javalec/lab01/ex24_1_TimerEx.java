@@ -2,14 +2,14 @@ package com.javalec.lab01;
 
 import java.util.Timer;
 
-public class lab24_1_TimerEx {
+public class ex24_1_TimerEx {
 
-	public lab24_1_TimerEx() throws InterruptedException {
+	public ex24_1_TimerEx() throws InterruptedException {
 		// TODO Auto-generated constructor stub
 		System.out.println("^^");
 		Timer timer = new Timer(true);
-		lab24_1_TimerTask1 t1 = new lab24_1_TimerTask1();
-		lab24_1_TimerTask2 t2 = new lab24_1_TimerTask2();
+		ex24_1_TimerTask1 t1 = new ex24_1_TimerTask1();
+		ex24_1_TimerTask2 t2 = new ex24_1_TimerTask2();
 		
 		timer.schedule(t1, 2000);
 		timer.schedule(t2, 7000);

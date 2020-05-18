@@ -13,7 +13,7 @@ public class CalendarExam {
 		int month = c2.get(Calendar.MONTH) + 1;
 		int date = c2.get(Calendar.DATE);
 		
-		c2.set(year, month - 3, 1);
+		c2.set(year, month - 4, 1);
 
 		System.out.printf("Today: %d-%d-%d\n\n",year,month,date);
 

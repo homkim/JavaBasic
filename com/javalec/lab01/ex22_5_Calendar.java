@@ -2,7 +2,7 @@ package com.javalec.lab01;
 
 import java.util.Calendar;
 
-public class lab22_5_Calendar {
+public class ex22_5_Calendar {
 
 	public static void main(String[] args) {
 		Calendar c1 = Calendar.getInstance();
